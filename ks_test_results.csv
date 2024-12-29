@@ -1,0 +1,4 @@
+,redshift,EP_8_FLUX,r
+C0_vs_C1,"{'statistic': np.float64(0.38277892726404583), 'p-value': np.float64(1.5342837765208924e-05)}","{'statistic': np.float64(0.5478274709533663), 'p-value': np.float64(3.9615209667091846e-11)}","{'statistic': np.float64(1.0), 'p-value': np.float64(3.0582185716511925e-46)}"
+C0_vs_C2,"{'statistic': np.float64(0.4098360655737705), 'p-value': np.float64(1.5172131419444229e-06)}","{'statistic': np.float64(0.4098360655737705), 'p-value': np.float64(1.5172131419444229e-06)}","{'statistic': np.float64(0.8688524590163934), 'p-value': np.float64(2.0764090686082393e-32)}"
+C1_vs_C2,"{'statistic': np.float64(0.07703326436415725), 'p-value': np.float64(0.8602167582043282)}","{'statistic': np.float64(0.21653668629635525), 'p-value': np.float64(0.008598633353769489)}","{'statistic': np.float64(0.9134967372274391), 'p-value': np.float64(1.9286610721753276e-50)}"
